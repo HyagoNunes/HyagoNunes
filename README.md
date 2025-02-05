@@ -1,12 +1,12 @@
 # Olá, eu sou o Hyago Nunes
 
-Seja bem-vindo ao meu espaço no GitHub. Aqui, compartilho meus projetos e reflexões sobre tecnologia, com foco em desenvolvimento de bots, automação e integração de APIs.
+Seja bem-vindo ao meu espaço no GitHub. Aqui, compartilho meus projetos e reflexões sobre tecnologia, com foco em desenvolvimento e automação.
 
 ---
 
 ## Sobre Mim
 
-Atualmente, dedico meu tempo a explorar soluções inovadoras, principalmente na criação de **bots para Discord** e na **automação de processos**. Meu interesse por **Inteligência Artificial** e **APIs web** me impulsiona a buscar sempre novas formas de transformar ideias em realidade.
+Atualmente, dedico meu tempo a explorar soluções inovadoras, principalmente na criação de **automação de processos**. Meu interesse por **I.A**  me impulsiona a buscar sempre novas formas de transformar ideias em realidade.
 
 **Minhas Especialidades:**
 - Desenvolvimento de aplicações em **Python** e **JavaScript**.
