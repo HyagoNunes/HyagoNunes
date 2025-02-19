@@ -1,71 +1,111 @@
 # Olá, eu sou o Hyago Nunes
 
-Seja bem-vindo ao meu espaço no GitHub. Aqui, compartilho meus projetos e reflexões sobre tecnologia, com foco em desenvolvimento e automação.
+Seja bem-vindo ao meu perfil no GitHub. Este espaço reúne meus projetos e iniciativas focadas em desenvolvimento e automação.
+
+## Sumário
+- [Sobre Mim](#sobre-mim)
+- [Repositórios em Destaque](#repositórios-em-destaque)
+- [Estatísticas do GitHub](#estatísticas-do-github)
+- [Tecnologias e Ferramentas](#tecnologias-e-ferramentas)
+- [Detalhes dos Projetos](#detalhes-dos-projetos)
+- [Próximos Projetos](#próximos-projetos)
+- [Contato](#contato)
 
 ---
 
 ## Sobre Mim
 
-Atualmente, dedico meu tempo a explorar soluções inovadoras, principalmente na criação de **automação de processos**. Meu interesse por **I.A** me impulsiona a buscar sempre novas formas de transformar ideias em realidade.
+Atualmente, dedico meu tempo à exploração de soluções inovadoras, com ênfase na **automação de processos**. Com experiência consolidada em **Python** e **JavaScript**, aplico conceitos de Inteligência Artificial para criar ferramentas que otimizam fluxos de trabalho e potencializam a eficiência dos processos.
 
-**Minhas Especialidades:**
-- Desenvolvimento de aplicações em **Python** e **JavaScript**.
-- Criação e manutenção de bots inteligentes para diferentes plataformas.
-- Implementação de processos automatizados que otimizam fluxos de trabalho.
+---
 
-Sinta-se à vontade para trocar ideias ou tirar dúvidas sobre qualquer um desses assuntos.
+## Repositórios em Destaque
+
+A seguir, uma seleção dos meus projetos mais relevantes, com foco na funcionalidade e na aplicação de soluções específicas:
+
+| Projeto                                                            | Linguagens      | Descrição                                                                              |
+|--------------------------------------------------------------------|-----------------|----------------------------------------------------------------------------------------|
+| [Discord-Bot-Voidzinho](https://github.com/HyagoNunes/Discord-Bot-Voidzinho) | Python / JavaScript | Bot para Discord que integra funcionalidades de inteligência artificial.             |
+| [Script-FreeBTC](https://github.com/HyagoNunes/Script-FreeBTC)               | Python          | Automatiza interações com o FreeBitcoin, simplificando o processo de reivindicação.    |
+| [WebCripto](https://github.com/HyagoNunes/WebCripto)                         | JavaScript      | Projeto web que agrega informações detalhadas sobre o universo das criptomoedas.       |
+| [Flag-API](https://github.com/HyagoNunes/Flag-API)                           | Node.js         | API para disponibilizar dados e imagens de bandeiras de países, útil para diversas aplicações. |
 
 ---
 
 ## Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HyagoNunes&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyagoNunes&layout=compact&theme=radical" alt="Principais Linguagens">
-</div>
+<details>
+  <summary>Mostrar Estatísticas</summary>
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HyagoNunes&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HyagoNunes&layout=compact&theme=radical)
+
+</details>
 
 ---
 
 ## Tecnologias e Ferramentas
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</div>
+Abaixo, uma visão geral das principais tecnologias que utilizo:
+
+| Tecnologia   | Nível de Experiência |
+|--------------|----------------------|
+| Python       | Avançado             |
+| JavaScript   | Avançado             |
+| Node.js      | Intermediário        |
+| HTML5        | Avançado             |
+| CSS3         | Avançado             |
+| Git          | Avançado             |
+| GitHub       | Avançado             |
 
 ---
 
-## Projetos Recentes
+## Detalhes dos Projetos
 
-- **[Discord-Bot-Voidzinho](https://github.com/HyagoNunes/Discord-Bot-Voidzinho)**  
-  Bot inteligente para o Discord, com funcionalidades que exploram o potencial da inteligência artificial.
+<details>
+  <summary><strong>Discord-Bot-Voidzinho</strong></summary>
 
-- **[Script-FreeBTC](https://github.com/HyagoNunes/Script-FreeBTC)**  
-  Solução automatizada para reivindicações no FreeBitcoin, otimizando a interação com a plataforma.
+Desenvolvido em Python e JavaScript, este projeto é um bot para Discord que integra comandos dinâmicos e respostas automatizadas, aproveitando conceitos de inteligência artificial para interações mais naturais e eficazes.
 
-- **[WebCripto](https://github.com/HyagoNunes/WebCripto)**  
-  Projeto web dedicado a oferecer informações detalhadas sobre o universo das criptomoedas.
+</details>
 
-- **[Flag-API](https://github.com/HyagoNunes/Flag-API)**  
-  API que disponibiliza dados e imagens sobre bandeiras do mundo, útil para diversas aplicações.
+<details>
+  <summary><strong>Script-FreeBTC</strong></summary>
+
+Ferramenta automatizada focada em otimizar a interação com a plataforma FreeBitcoin. O script permite reivindicações e processos automatizados, garantindo maior eficiência e segurança no uso da ferramenta.
+
+</details>
+
+<details>
+  <summary><strong>WebCripto</strong></summary>
+
+Projeto web que agrega informações sobre criptomoedas, utilizando APIs para coletar dados em tempo real. Apresenta visualizações e análises que auxiliam na compreensão do mercado cripto.
+
+</details>
+
+<details>
+  <summary><strong>Flag-API</strong></summary>
+
+API desenvolvida para fornecer dados e imagens de bandeiras de diversos países, oferecendo uma solução versátil para aplicações que necessitam de recursos informativos e visuais.
+
+</details>
 
 ---
 
-## Conecte-se Comigo
+## Próximos Projetos
 
-- **LinkedIn:** [Hyago Nunes](https://www.linkedin.com/in/seu-perfil/)
-- **GitHub:** [HyagoNunes](https://github.com/HyagoNunes)
-
-**Contato:**  
-- **E-mail:** [hyagonunesb96@gmail.com](mailto:hyagonunesb96@gmail.com)  
-- **Discord:** mg7sr.fox | #5539
+- [ ] Integrar novos módulos de automação a projetos existentes.
+- [ ] Explorar aplicações avançadas de IA em bots de comunicação.
+- [ ] Aprimorar a documentação dos repositórios com tutoriais interativos.
 
 ---
 
-Se meus projetos e ideias ressoaram com você, considere acompanhar meu trabalho. Agradeço sua visita e estou sempre aberto a novas conexões e colaborações.
+## Contato
+
+Para entrar em contato ou conhecer mais sobre meu trabalho, utilize os seguintes canais:
+
+- [LinkedIn](https://www.linkedin.com/in/seu-perfil/)
+- [GitHub](https://github.com/HyagoNunes)
+- Email: [hyagonunesb96@gmail.com](mailto:hyagonunesb96@gmail.com)
+- Discord: mg7sr.fox | #5539
